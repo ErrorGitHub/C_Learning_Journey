@@ -1,5 +1,5 @@
 #pragma once
-#include "wchar.h"
+#include <wchar.h>
 
 int get_path(wchar_t *file_path, wchar_t *directory_path);
 
